@@ -1,5 +1,5 @@
-# rn-extract-link BM3D executable
-This repo contains the files required to compile a working BM3D executable for the project [rn-extract-link](https://github.com/Silver96/rn-extract-link).
+# noel BM3D executable
+This repo contains the files required to compile a working BM3D executable for the [noel](https://github.com/Silver96/noel) project.
 
 In order to obtain a working executable, the following steps are needed:
 - Install Matlab Compiler package from Matlab official packages
